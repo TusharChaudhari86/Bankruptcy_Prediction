@@ -26,7 +26,7 @@ def custom_predict():
         df = pd.read_csv(path)
         pred = predict()
         pred = pred.predictions(df)
-        pred.to_csv("Predictions.csv")
+        pred.to_csv("static/Predictions.csv")
         os.remove("Uploads/test.csv")
         return Response("Prediction File created and ready to download, "
                         +"Predicted file path "+str(path))
@@ -46,7 +46,7 @@ def default_predict():
         df = pd.read_csv(path)
         pred = predict()
         pred = pred.predictions(df)
-        pred.to_csv("Predictions.csv")
+        pred.to_csv("static/Predictions.csv")
         return Response("Prediction File created and ready to download, "
                         +"Predicted file path ")
     except ValueError:
