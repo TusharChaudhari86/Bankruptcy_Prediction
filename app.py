@@ -90,6 +90,6 @@ def trainRouteClient():
     return Response("Training successfull!!")
 
 
-)
+
 if __name__ == "__main__":
     app.run(debug=False)
