@@ -1,0 +1,186 @@
+2020-06-11/21:04:57		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:04:57		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:04:57		Pearson_Corr method successfull !
+2020-06-11/21:04:57		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:04:57		chi_square method for feature selection successfull !
+2020-06-11/21:04:57		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:04:57		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:04:57		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:04:58		Lasso selection method for feature selection successfull !
+2020-06-11/21:04:58		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:04:58		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:04:58		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:04:58		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:04:58		Feature selection successfull !
+2020-06-11/21:04:58		--------------------------------------------------------------------------------
+2020-06-11/21:05:53		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:05:53		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:05:53		Pearson_Corr method successfull !
+2020-06-11/21:05:53		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:05:53		chi_square method for feature selection successfull !
+2020-06-11/21:05:53		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:05:53		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:05:53		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:05:53		Lasso selection method for feature selection successfull !
+2020-06-11/21:05:53		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:05:53		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:05:53		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:05:53		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:05:53		Feature selection successfull !
+2020-06-11/21:05:53		----------------------------------------End----------------------------------------
+2020-06-11/21:06:35		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:06:35		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:06:35		Pearson_Corr method successfull !
+2020-06-11/21:06:35		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:06:35		chi_square method for feature selection successfull !
+2020-06-11/21:06:35		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:06:35		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:06:35		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:06:35		Lasso selection method for feature selection successfull !
+2020-06-11/21:06:35		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:06:35		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:06:35		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:06:35		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:06:35		Exception occured in ensemble_select method pf Preprocessor class. Exception message: name 'n' is not defined
+2020-06-11/21:06:35		ensemble_select method for feature selection unsuccessful
+2020-06-11/21:08:18		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:08:18		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:08:19		Pearson_Corr method successfull !
+2020-06-11/21:08:19		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:08:19		chi_square method for feature selection successfull !
+2020-06-11/21:08:19		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:08:19		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:08:19		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:08:19		Lasso selection method for feature selection successfull !
+2020-06-11/21:08:19		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:08:19		Exception occured in rf_based_selection method pf Preprocessor class. Exception message: 'SelectFromModel' object has no attribute 'fi'
+2020-06-11/21:08:19		rf_based_selection method for feature selection unsuccessful
+2020-06-11/21:08:19		Exception occured in ensemble_select method pf Preprocessor class. Exception message: 
+2020-06-11/21:08:19		ensemble_select method for feature selection unsuccessful
+2020-06-11/21:18:35		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:18:35		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:18:35		Pearson_Corr method successfull !
+2020-06-11/21:18:35		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:18:35		chi_square method for feature selection successfull !
+2020-06-11/21:18:35		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:18:35		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:18:35		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:18:35		Lasso selection method for feature selection successfull !
+2020-06-11/21:18:35		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:18:36		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:18:36		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:18:36		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:18:36		Feature selection successfull !
+2020-06-11/21:18:36		----------------------------------------End----------------------------------------
+2020-06-11/21:19:29		----------------------------------------Start----------------------------------------
+2020-06-11/21:19:29		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:19:29		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:19:29		Pearson_Corr method successfull !
+2020-06-11/21:19:29		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:19:29		chi_square method for feature selection successfull !
+2020-06-11/21:19:29		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:19:29		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:19:29		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:19:29		Lasso selection method for feature selection successfull !
+2020-06-11/21:19:29		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:19:30		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:19:30		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:19:30		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:19:30		Feature selection successfull !
+2020-06-11/21:19:30		----------------------------------------End----------------------------------------
+2020-06-11/21:52:05		----------------------------------------Start----------------------------------------
+2020-06-11/21:52:05		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-11/21:52:05		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-11/21:52:05		Pearson_Corr method successfull !
+2020-06-11/21:52:05		Entered chi_square method of the Features class in Feature_selection
+2020-06-11/21:52:05		chi_square method for feature selection successfull !
+2020-06-11/21:52:05		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-11/21:52:06		Recursive Feature Elimination method for feature selection successfull !
+2020-06-11/21:52:06		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-11/21:52:07		Lasso selection method for feature selection successfull !
+2020-06-11/21:52:07		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-11/21:52:22		Random Forest based selection method for feature selection successfull !
+2020-06-11/21:52:22		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-11/21:52:23		LightGBM based selection method for feature selection successfull !
+2020-06-11/21:52:23		Feature selection successfull !
+2020-06-11/21:52:23		----------------------------------------End----------------------------------------
+2020-06-12/00:11:41		----------------------------------------Start----------------------------------------
+2020-06-12/00:11:41		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-12/00:11:41		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-12/00:11:41		Pearson_Corr method successfull !
+2020-06-12/00:11:41		Entered chi_square method of the Features class in Feature_selection
+2020-06-12/00:11:41		chi_square method for feature selection successfull !
+2020-06-12/00:11:41		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-12/00:11:41		Recursive Feature Elimination method for feature selection successfull !
+2020-06-12/00:11:41		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-12/00:11:42		Lasso selection method for feature selection successfull !
+2020-06-12/00:11:42		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-12/00:11:59		Random Forest based selection method for feature selection successfull !
+2020-06-12/00:11:59		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-12/00:12:00		LightGBM based selection method for feature selection successfull !
+2020-06-12/00:12:00		Feature selection successfull !
+2020-06-12/00:12:00		----------------------------------------End----------------------------------------
+2020-06-12/00:15:28		----------------------------------------Start----------------------------------------
+2020-06-12/00:15:28		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-12/00:15:28		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-12/00:15:29		Pearson_Corr method successfull !
+2020-06-12/00:15:29		Entered chi_square method of the Features class in Feature_selection
+2020-06-12/00:15:29		chi_square method for feature selection successfull !
+2020-06-12/00:15:29		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-12/00:15:29		Recursive Feature Elimination method for feature selection successfull !
+2020-06-12/00:15:29		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-12/00:15:30		Lasso selection method for feature selection successfull !
+2020-06-12/00:15:30		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-12/00:15:46		Random Forest based selection method for feature selection successfull !
+2020-06-12/00:15:46		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-12/00:15:47		LightGBM based selection method for feature selection successfull !
+2020-06-12/00:15:47		Feature selection successfull !
+2020-06-12/00:15:47		----------------------------------------End----------------------------------------
+2020-06-12/00:18:40		----------------------------------------Start----------------------------------------
+2020-06-12/00:18:40		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-12/00:18:40		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-12/00:18:40		Pearson_Corr method successfull !
+2020-06-12/00:18:40		Entered chi_square method of the Features class in Feature_selection
+2020-06-12/00:18:40		chi_square method for feature selection successfull !
+2020-06-12/00:18:40		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-12/00:18:41		Recursive Feature Elimination method for feature selection successfull !
+2020-06-12/00:18:41		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-12/00:18:42		Lasso selection method for feature selection successfull !
+2020-06-12/00:18:42		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-12/00:18:58		Random Forest based selection method for feature selection successfull !
+2020-06-12/00:18:58		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-12/00:18:58		LightGBM based selection method for feature selection successfull !
+2020-06-12/00:18:58		Feature selection successfull !
+2020-06-12/00:18:58		----------------------------------------End----------------------------------------
+2020-06-12/00:21:53		----------------------------------------Start----------------------------------------
+2020-06-12/00:21:53		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-12/00:21:53		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-12/00:21:53		Pearson_Corr method successfull !
+2020-06-12/00:21:53		Entered chi_square method of the Features class in Feature_selection
+2020-06-12/00:21:53		chi_square method for feature selection successfull !
+2020-06-12/00:21:53		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-12/00:21:54		Recursive Feature Elimination method for feature selection successfull !
+2020-06-12/00:21:54		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-12/00:21:54		Lasso selection method for feature selection successfull !
+2020-06-12/00:21:54		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-12/00:22:11		Random Forest based selection method for feature selection successfull !
+2020-06-12/00:22:11		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-12/00:22:11		LightGBM based selection method for feature selection successfull !
+2020-06-12/00:22:11		Feature selection successfull !
+2020-06-12/00:22:11		----------------------------------------End----------------------------------------
+2020-06-12/00:22:37		----------------------------------------Start----------------------------------------
+2020-06-12/00:22:37		Entered ensemble_select method of the Features class in Feature_selection
+2020-06-12/00:22:37		Entered Pearson_Corr method of the Features class in Feature_selection
+2020-06-12/00:22:37		Pearson_Corr method successfull !
+2020-06-12/00:22:37		Entered chi_square method of the Features class in Feature_selection
+2020-06-12/00:22:37		chi_square method for feature selection successfull !
+2020-06-12/00:22:37		Entered recursive_feature_elimination method of the Features class in Feature_selection
+2020-06-12/00:22:37		Recursive Feature Elimination method for feature selection successfull !
+2020-06-12/00:22:37		Entered  lasso_selection method of the Features class in Feature_selection
+2020-06-12/00:22:38		Lasso selection method for feature selection successfull !
+2020-06-12/00:22:38		Entered rf_based_selection method of the Features class in Feature_selection
+2020-06-12/00:22:58		Random Forest based selection method for feature selection successfull !
+2020-06-12/00:22:58		Entered lgb_based_selection method of the Features class in Feature_selection
+2020-06-12/00:22:59		LightGBM based selection method for feature selection successfull !
+2020-06-12/00:22:59		Feature selection successfull !
+2020-06-12/00:22:59		----------------------------------------End----------------------------------------

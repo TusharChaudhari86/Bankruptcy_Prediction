@@ -1,0 +1,108 @@
+2020-06-11/21:49:24		Entered remove_unwanted_spaces method of the Preprocessor class 
+2020-06-11/21:49:25		unwanted space removal successful. Excited the remove_unwanted_spaces method of the Preprocessor class.
+2020-06-11/21:49:35		Entered remove_unwanted_spaces method of the Preprocessor class 
+2020-06-11/21:49:35		unwanted space removal successful. Excited the remove_unwanted_spaces method of the Preprocessor class.
+2020-06-11/21:49:35		Entered replace_special_character method of the Preprocessor class 
+2020-06-11/21:49:35		Removing ? from the dataframe columns
+2020-06-11/21:49:35		Entered object to num method of the Preprocessor class
+2020-06-11/21:49:35		Conversion of the dtype of variables of dataset successful
+2020-06-11/21:49:35		Datatype conversion Successful
+2020-06-11/21:49:35		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:49:35		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-11/21:49:35		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:49:35		Entered the upsampling method of the Preprocessor class
+2020-06-11/21:49:35		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-11/21:52:04		------------------------------------------------------------------
+2020-06-11/21:52:04		start of the training
+2020-06-11/21:52:04		Loading data
+2020-06-11/21:52:04		Preprocessing training data
+2020-06-11/21:52:04		Entered replace_special_character method of the Preprocessor class 
+2020-06-11/21:52:04		Removing ? from the dataframe columns
+2020-06-11/21:52:04		Entered object to num method of the Preprocessor class
+2020-06-11/21:52:04		Conversion of the dtype of variables of dataset successful
+2020-06-11/21:52:05		Datatype conversion Successful
+2020-06-11/21:52:05		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:52:05		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-11/21:52:05		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:52:05		Entered the upsampling method of the Preprocessor class
+2020-06-11/21:52:05		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-11/21:52:05		Train Test Split
+2020-06-11/21:52:23		Defining classifier
+2020-06-11/21:52:23		Fitting the classifier onto Training data
+2020-06-11/21:52:32		Saving the trained model
+2020-06-11/21:52:32		Loading the saved model
+2020-06-11/21:52:32		Predicting the test data
+2020-06-11/21:52:32		Training Successful !
+2020-06-12/00:11:39		------------------------------------------------------------------
+2020-06-12/00:11:39		start of the training
+2020-06-12/00:11:39		Loading data
+2020-06-12/00:11:39		Preprocessing training data
+2020-06-12/00:11:39		Entered replace_special_character method of the Preprocessor class 
+2020-06-12/00:11:39		Removing ? from the dataframe columns
+2020-06-12/00:11:40		Entered object to num method of the Preprocessor class
+2020-06-12/00:11:40		Conversion of the dtype of variables of dataset successful
+2020-06-12/00:11:40		Datatype conversion Successful
+2020-06-12/00:11:40		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:11:40		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-12/00:11:40		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:11:40		Entered the upsampling method of the Preprocessor class
+2020-06-12/00:11:41		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-12/00:11:41		Train Test Split
+2020-06-12/00:12:00		Defining classifier
+2020-06-12/00:12:00		Fitting the classifier onto Training data
+2020-06-12/00:12:09		Saving the trained model
+2020-06-12/00:12:09		Loading the saved model
+2020-06-12/00:12:09		Predicting the test data
+2020-06-12/00:12:09		Training Successful !
+2020-06-11/21:46:36		Entered replace_special_character method of the Preprocessor class 
+2020-06-11/21:46:36		Removing ? from the dataframe columns
+2020-06-11/21:46:36		Entered object to num method of the Preprocessor class
+2020-06-11/21:46:36		Conversion of the dtype of variables of dataset successful
+2020-06-11/21:46:37		Datatype conversion Successful
+2020-06-11/21:46:37		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:46:37		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-11/21:46:37		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-11/21:46:37		Entered the upsampling method of the Preprocessor class
+2020-06-11/21:46:37		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-12/00:15:27		------------------------------------------------------------------
+2020-06-12/00:15:27		start of the training
+2020-06-12/00:15:27		Loading data
+2020-06-12/00:15:27		Preprocessing training data
+2020-06-12/00:15:27		Entered replace_special_character method of the Preprocessor class 
+2020-06-12/00:15:27		Removing ? from the dataframe columns
+2020-06-12/00:15:27		Entered object to num method of the Preprocessor class
+2020-06-12/00:15:27		Conversion of the dtype of variables of dataset successful
+2020-06-12/00:15:28		Datatype conversion Successful
+2020-06-12/00:15:28		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:15:28		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-12/00:15:28		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:15:28		Entered the upsampling method of the Preprocessor class
+2020-06-12/00:15:28		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-12/00:15:28		Train Test Split
+2020-06-12/00:15:47		Defining classifier
+2020-06-12/00:15:47		Fitting the classifier onto Training data
+2020-06-12/00:15:56		Saving the trained model
+2020-06-12/00:15:56		Loading the saved model
+2020-06-12/00:15:56		Predicting the test data
+2020-06-12/00:15:56		Training Successful !
+2020-06-12/00:22:35		------------------------------------------------------------------
+2020-06-12/00:22:35		start of the training
+2020-06-12/00:22:35		Loading data
+2020-06-12/00:22:35		Preprocessing training data
+2020-06-12/00:22:35		Entered replace_special_character method of the Preprocessor class 
+2020-06-12/00:22:35		Removing ? from the dataframe columns
+2020-06-12/00:22:35		Entered object to num method of the Preprocessor class
+2020-06-12/00:22:35		Conversion of the dtype of variables of dataset successful
+2020-06-12/00:22:36		Datatype conversion Successful
+2020-06-12/00:22:36		Entered the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:22:36		Applying Robust scaling on the Numerical variables of the dataframe
+2020-06-12/00:22:36		Scaling for numerical values successful. Exited the scaling_numerical_columns method of the Preprocessor class
+2020-06-12/00:22:36		Entered the upsampling method of the Preprocessor class
+2020-06-12/00:22:37		Upsampling if the monority class data successful. Exited the upsampling method of the Preprocessor class
+2020-06-12/00:22:37		Train Test Split
+2020-06-12/00:22:59		Defining classifier
+2020-06-12/00:22:59		Fitting the classifier onto Training data
+2020-06-12/00:23:09		Saving the trained model
+2020-06-12/00:23:09		Loading the saved model
+2020-06-12/00:23:09		Predicting the test data
+2020-06-12/00:23:10		Training Successful !
