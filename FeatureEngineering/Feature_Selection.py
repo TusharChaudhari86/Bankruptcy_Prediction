@@ -161,7 +161,7 @@ class Features:
             self.log_writer.log(self.file_object, "lasso_selection method for feature selection unsuccessful")
             raise Exception()
 
-    """"Tree based feature Selection method(LightGBM)"""
+    """"Tree based feature Selection method(Random Forest)"""
     def rf_based_selection(self):
         """
                 Method Name: rf_based_selection
